@@ -32,10 +32,13 @@ Use the OMDb (Open Movie Database) API to search data from the IMDb (Internet Mo
 ## Examples
 
 * Bands in town (node keys.js concert-this)
+
 ![alt text](gifs/concert-this.gif)
 
 * Spotify (node keys.js spotify-this-song)
+
 ![alt text](gifs/spotify-this-song.gif)
 
 * OMBD (node keys.js movie-this)
+
 ![alt text](gifs/movie-this.gif)
