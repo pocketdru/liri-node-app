@@ -2,6 +2,13 @@
 
 The project is created to help users find information about the band which is going to have a concert in the nearest area, find information about the specific movie or song. 
 
+## Built with
+1.  ES6.
+2. JQuery.
+3. axios
+4. moment.js
+5. APIs.
+
 ## APIs in the project
 1. Bands in Town API
 2. Node-Spotify-API
